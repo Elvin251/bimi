@@ -1,0 +1,27 @@
+
+#bir{
+    background-color: green;
+    color: white;
+
+    text-align: center;
+    width: 96vw;
+  margin: 0 auto;
+}
+h2{
+    color: green;
+    text-align: center;
+  
+}
+ul{
+    font-size: 29px;
+    margin-left: 120px;
+    color: green;
+}
+p{
+    color: black;
+display: inline;
+    
+}
+#birp{
+    font-size: 25px;
+}
